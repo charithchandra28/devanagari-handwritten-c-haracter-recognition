@@ -1,0 +1,9 @@
+    Alogorithm           Test Accuracy 
+1)  K-NN                 91.02 for k=5
+2)  Naive Bayes          58.7 for alpha=1e-05
+3)  Logistic Regression  69.0 for c=100
+4)  Linear Svm           65.9 for c=1000
+5)  Decision trees       57.2 for d=45 
+6)  Random Forest        91.4 for d=40 and base learners=100  
+7)  Simple CONVNET       95.25 for 15 epochs
+8)  VGG16 PRETRAINED     92.50 for 15 epochs
